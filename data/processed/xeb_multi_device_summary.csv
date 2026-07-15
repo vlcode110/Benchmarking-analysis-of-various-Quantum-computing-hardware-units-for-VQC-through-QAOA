@@ -1,0 +1,5 @@
+device_key,display_name,family,backend,shots,depths,F_d1_mean,F_d1_sem,n_circuits_d1
+braket_emerald,IQM Emerald (Braket XEB),Braket,Emerald,1024,"[1, 2, 3, 4, 5, 6]",0.7419527892941347,0.01811671991674059,20
+braket_tn1,Braket TN1 (sim),Braket sim,TN1,1000,[1],0.9893498489129744,0.007365553602995097,11
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,ionq_simulator,1024,[1],1.0036766200871747,0.0052200348594040906,11
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,ionq_qpu.forte-1,1024,[1],0.975387877329819,0.008062284425183046,11

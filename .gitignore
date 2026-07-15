@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+~$*
+
+# Secrets (never commit API keys or tokens)
+*_secret*
+*.pem
+
+# Local-only notes and drafts
+*.docx
+Useful articles/
+archive/
+
+# Optional: regenerate from notebooks
+# analysis/vqc_ibm_fez_analysis.html
+
+# Maintainer-only (not published)
+scripts/
+

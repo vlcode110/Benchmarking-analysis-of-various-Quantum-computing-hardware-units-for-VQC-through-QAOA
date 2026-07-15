@@ -1,0 +1,22 @@
+# Core analysis (notebooks in analysis/)
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+
+# Ideal reference & circuit generation
+qiskit>=1.0
+qiskit-aer>=0.13
+
+# IBM Quantum (optional — only for re-submitting jobs)
+qiskit-ibm-runtime>=0.25
+
+# Amazon Braket (optional — only for re-submitting jobs)
+amazon-braket-sdk>=1.70
+amazon-braket-schemas>=1.19
+
+# IonQ native cloud (optional — only for re-submitting jobs)
+qiskit-ionq>=0.5
+
+# Notebook hygiene (optional)
+nbstripout>=0.7

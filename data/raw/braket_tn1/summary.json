@@ -1,0 +1,12 @@
+{
+  "benchmark": "vqc_inference_from_qasm",
+  "backend": "TN1",
+  "backend_name_arg": "TN1",
+  "qasm_dir": "/home/ec2-user/SageMaker/things_to_run_on_ibm",
+  "shots": 1000,
+  "n_images": 11,
+  "accuracy": 1.0,
+  "mean_abs_parity_ev": 0.35127272727272724,
+  "wall_time_s": 160.10626077651978,
+  "utc_finished": "2026-05-25T14:46:17.205460+00:00"
+}

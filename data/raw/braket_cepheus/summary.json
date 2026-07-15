@@ -1,0 +1,11 @@
+{
+  "benchmark": "vqc_inference",
+  "backend": "Cepheus-1-108Q",
+  "backend_name_arg": "Cepheus-1-108Q",
+  "shots": 1024,
+  "n_images": 60,
+  "accuracy": 0.5833333333333334,
+  "mean_abs_parity_ev": 0.021940104166666665,
+  "wall_time_s": 162.88235521316528,
+  "utc_finished": "2026-04-28T00:07:30.906384+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "benchmark": "xeb_from_qasm",
+  "provider": "ionq_native",
+  "backend": "ionq_simulator",
+  "noise_model": null,
+  "backend_name_arg": "simulator",
+  "qasm_dir": "data/circuits",
+  "shots": 1024,
+  "depths": [
+    1
+  ],
+  "circuits_per_depth": {
+    "1": 11
+  },
+  "per_depth_mean_sem": {
+    "1": {
+      "mean": 1.0036766200871747,
+      "sem": 0.0052200348594040906
+    }
+  },
+  "fit_A_f": {
+    "error": "need >=2 distinct depths to fit f^d"
+  },
+  "wall_time_s": 16.219305992126465,
+  "ionq_job_ids": [
+    "019f4226-0b62-7188-bb24-50bde6c336f8"
+  ],
+  "utc_finished": "2026-07-08T14:33:50.168077+00:00"
+}

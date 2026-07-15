@@ -1,0 +1,24 @@
+{
+  "benchmark": "xeb_from_qasm",
+  "backend": "TN1",
+  "backend_name_arg": "TN1",
+  "qasm_dir": "/home/ec2-user/SageMaker/things_to_run_on_ibm",
+  "shots": 1000,
+  "depths": [
+    1
+  ],
+  "circuits_per_depth": {
+    "1": 11
+  },
+  "per_depth_mean_sem": {
+    "1": {
+      "mean": 0.9893498489129744,
+      "sem": 0.007365553602995097
+    }
+  },
+  "fit_A_f": {
+    "error": "need >=2 distinct depths to fit f^d"
+  },
+  "wall_time_s": 170.82565546035767,
+  "utc_finished": "2026-05-25T14:49:12.694611+00:00"
+}

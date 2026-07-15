@@ -1,0 +1,37 @@
+{
+  "benchmark": "xeb_from_qasm",
+  "provider": "ionq_native",
+  "backend": "ionq_qpu.forte-1",
+  "noise_model": null,
+  "backend_name_arg": "qpu.forte-1",
+  "qasm_dir": "data/circuits",
+  "shots": 1024,
+  "depths": [
+    1
+  ],
+  "circuits_per_depth": {
+    "1": 11
+  },
+  "circuits_with_counts": {
+    "1": 11
+  },
+  "per_depth_mean_sem": {
+    "1": {
+      "mean": 0.975387877329819,
+      "sem": 0.008062284425183046
+    }
+  },
+  "fit_A_f": {
+    "error": "need >=2 distinct depths to fit f^d"
+  },
+  "wall_time_s": 10515.02643418312,
+  "ionq_job_ids": [
+    "019f46ca-7a64-735c-a52a-d2572be92cd1",
+    "019f4735-a7dd-7009-98e8-6639e3b16c93",
+    "019f4741-e302-7442-ab24-6e7089c44ac0",
+    "019f4747-c6ff-75fa-a757-3fa2cc58b4c7",
+    "019f474c-f509-70ad-b233-a4455b8346a4",
+    "019f4756-0398-742a-9dfb-4a26c9142d18"
+  ],
+  "utc_finished": "2026-07-09T15:07:42.736701+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "v0.2",
+  "data": [
+    {
+      "results": {
+        "meas": {
+          "data": "+Zyx+xlnnH/GOWWcUfYZp9+R/xl7nHHAGWeccfgfB5yR+xnHZ47/Hmdsnv9hZ+x1Rh5nnHfGGWecccYZZ5iBxxlnnHHG+Wecccb5Z5xx+hl45J8HnmWcccYZZ+S/xxmHn3bGGafnccbhZ+Bxxhnnn3HEGWecfs7h5+BxxhlnnJF//mecgccdd55x/uln5H/G+WfgkccZOZxxwjmn43/GGWfkccYZZ5xx+jl7nH95HmeQccYdeZxx/xn453FGDGecfsYZZ+z+xhln4HHGGWecccYZp+exOx5nvHEGHmecfvoZZ5yRx+mZ53H68XmcsTv+Z5xxfh7n57HH+Wecf/rZeeBxRh5nnH/FGWecgf+ZZ9yxxxkXnH/G4WnsYX4eZ5xxxjnnn3H4GXmcccYZe+R/xul3nHHGGeeccc4ZZ5yR+Rln4JHHCWOckcfpZ5x9whlnnHlG6Sfgccb5Z5RxRhl4nHHGGZvfcfoZe5yRRxprnHH4GWfcvs85p58R/hlnnHH6HnmccfrtZ5wRx+nnn3/GGaefnvnheZxxxhnln3H2Gefnf/oGZ5yRxxmHn777GWbsccYZf5yxxxlnnHH/GSecdcYZN5yBxxln5HHGGYeffUQZZ5xRBt5m7H7GGXncfvgZZ5xwhhln4JHHBWfgccb5Z+Bxxhln4L7HOeefv8cZ55+Rx/l55HPGHnmfccbh+J9+Rh75lHH/+Wfkc8YZeOBxRhx2nHHGOeVsfsYZZ5xxxh6G53HC+dn/ce4ZZ+SPxxlnnFHGGWecfvgYeBhwxjnnn3HG6WeccfoZZ5xx+hlnlHHGGT2YfwYeeJx+xulnnI7HGftgfgYeZ+R/+v5nnHHGGWecccYZZ5yBx/lnmHHG+WecccYZp59+xj7nnHF+GWecccb5Z+wxxhlnnHHHGGfknsUZeWR+xh1nnEnGGUecf8Ye55yzR+73n4HPGWfmcccZZ5xxvxn7n3HG4WekcccZZ5yxx+aHn3H+Gefkcc4ZZ5xxxhlnnHE+HmecsfsZeZyRRx97HH7GGWeUf8bh95xxBh53nJH7GWScccbpZxyO+Rl4nHN+BuWfcfr/eeR+xvlnFHH/+WfgEXviZ5yBeR54nHF+HmecceYZeZxxRh5n5HHGGWeckcc5uJ9xxmnln57+GbmfccYZZ5yfzxmn55H7GWeYfsYZ559xxvlnnH/GGWecccYdZ5xxzhn4533G6Weccejp55xxxx0n7IFGHmecccYZ5+OexxlnnHF4+Xicncfhp9+R+xn7n3FGHmecf8YZ5x9+xvnn53HG2WcffuYZ+edx/hlnnwH74Wickf8Zd5xBxhl7nHH++WfsfcYZ55xxxhlnnHE4HmecccYZZ5x9+flnnHHG4WdknsYZZ6SBRz5nnHHGGXuccUYeZ+BxRh5nnJ1GHnmcccYZZ5x/xhlnnHZGHneccX5+Zxx+xhlnnHFGHmfkkcf5Z5yRx+lnHH7GGXefkccZZ5yxxxlnnHH2HWfkccbpueNx/hlnnJHH6WfkccYbp5+BRx5n4HFGHmeccccZuZ9/zhlniHH+HWeYccfhl2d++hm5n3FGHmecjX8eZ9yBwhlnHHH4GXicn8flp5+Txxm5n3HGGWfkcfgZZ5yBxxlnkoF3Hnmcf0YeZ5xxRh5nnI73GWcccHjuZ5yBKRkn3HHG+XiccUceh5+BxxlnnJHH6XmccfrhZ5hxxhk=",
+          "shape": [
+            1024,
+            10
+          ],
+          "dtype": "bool"
+        }
+      },
+      "metadata": {
+        "scheduler_timing": null,
+        "stretch_values": null
+      }
+    }
+  ],
+  "metadata": {
+    "chunk_timing": [
+      {
+        "start": "2026-04-27T12:29:32.127381",
+        "stop": "2026-04-27T12:29:33.173966",
+        "parts": [
+          {
+            "idx_item": 0,
+            "size": 1
+          }
+        ]
+      }
+    ]
+  },
+  "passthrough_data": {
+    "post_processor": {
+      "context": "sampler_v2",
+      "pub_shapes": [
+        1
+      ],
+      "version": "v1"
+    }
+  }
+}

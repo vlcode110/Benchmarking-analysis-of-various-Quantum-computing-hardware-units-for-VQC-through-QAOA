@@ -1,0 +1,34 @@
+device_key,display_name,family,depth,circuit_stem,circuit_idx,F_xeb
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c000,0,0.9918266167208775
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c001,1,0.9671749670092301
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c002,2,1.0052046742778173
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c003,3,1.0327951615836433
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c004,4,0.9470918409924813
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c005,5,1.0168917394474046
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c006,6,0.9863444150278993
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c007,7,0.9910794540327698
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c008,8,0.9611502273120036
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c009,9,0.9748277131112807
+braket_tn1,Braket TN1 (sim),Braket sim,1,xeb_d01_c010,10,1.0084615285273102
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c000,0,0.9868454639069032
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c001,1,0.9685420606132902
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c002,2,0.9936645462172823
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c003,3,1.0096524484078586
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c004,4,1.030049244808522
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c005,5,0.995516790590785
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c006,6,0.9918380851774052
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c007,7,1.0075290496858345
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c008,8,1.015466827795752
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c009,9,1.0228863184275725
+ionq_native_simulator,IonQ simulator (native cloud),IonQ native,1,xeb_d01_c010,10,1.0184519853277185
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c000,0,0.9942146877001035
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c001,1,1.0292450760499638
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c002,2,0.9975789100261483
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c003,3,0.9484298628218936
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c004,4,0.9644028516489053
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c005,5,0.9847728003193792
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c006,6,0.9224734207441463
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c007,7,0.9585154563887044
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c008,8,0.9746718590280051
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c009,9,0.9708404866548007
+ionq_native_forte_1,IonQ Forte-1 (native cloud),IonQ native,1,xeb_d01_c010,10,0.9841212392459574
