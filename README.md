@@ -1,0 +1,2 @@
+# Benchmarking-analysis-of-various-Quantum-computing-hardware-units-for-VQC-through-QAOA
+This repository represents the full store of raw data, algorithms and data analysis notebooks used in the production of the scientific article titled "Benchmarking analysis of various Quantum computing hardware units for VQC through QAOA" by V.Liutarevich and C.Renaud of UCL Electrical and Electronics Engineering Department, London, United Kingdom
