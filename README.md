@@ -1,6 +1,8 @@
-# Multi-device QML benchmarking
+# Benchmarking analysis of various quantum computing hardware units for VQC through QAOA
 
-Source code and data for a **10-qubit variational quantum classifier (VQC)** and **linear cross-entropy benchmarking (XEB)** study across IBM, Amazon Braket, and IonQ backends.
+This repository contains the raw data, algorithms, and analysis notebooks for the article **"Benchmarking analysis of various Quantum computing hardware units for VQC through QAOA"** by V. Liutarevich and C. Renaud (UCL Electrical and Electronic Engineering, London, United Kingdom).
+
+It covers a **10-qubit variational quantum classifier (VQC)** and **linear cross-entropy benchmarking (XEB)** across IBM, Amazon Braket, and IonQ backends.
 
 ## Repository layout
 
@@ -59,4 +61,4 @@ Save new outputs under `data/raw/` using the same folder naming as the existing 
 
 ## Citation
 
-If you use this dataset or code, please cite the accompanying paper (details TBD).
+If you use this dataset or code, please cite the accompanying paper.
